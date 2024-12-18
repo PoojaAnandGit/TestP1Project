@@ -7,15 +7,19 @@
   <null name="startup_services"/>
   <null name="shutdown_services"/>
   <null name="replication_services"/>
-  <null name="requires"/>
+  <record name="requires" javaclass="com.wm.util.Values">
+    <value name="onPremFlowsTest">10.15.0.0.674</value>
+  </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">2</value>
+  <value name="build">3</value>
   <null name="description"/>
   <value name="created_date">18-12-2024 12:05:25 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2024-12-18T12:05:30.2192514Z</value>
+  <value name="lastUpdated">2024-12-18T12:05:50.9858517Z</value>
+  <value name="wmProjectId">flacee1ef580e404a4f2ed60</value>
+  <value name="creator">Pooja Anand</value>
 </Values>
